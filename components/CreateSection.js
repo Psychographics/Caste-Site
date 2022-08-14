@@ -17,8 +17,8 @@ const CreateSection = () => {
                         <MDBCol className='text-center'>
                             <MDBAnimation type='fadeInLeft' delay='.3s'>
                                 <h1 style={{color: "#ffffff", paddingTop:"4em"}} className='h1-responsive font-weight-bold mt-sm-5'>
-                                    Help build, design and share the world of kaisimi. Powered by opensource code, nft assets
-                                    and community driven content.
+                                    Help build, design and share the world of kaisimi. Powered by Ethereum, Polygon, IPFS, NFT Assets
+                                    and Community Driven Content.
                                 </h1>
                             </MDBAnimation>
                         </MDBCol>
